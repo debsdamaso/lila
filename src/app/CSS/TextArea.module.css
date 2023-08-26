@@ -1,0 +1,10 @@
+.text-area {
+    text-align: center;
+    text-size-adjust: 30px;
+    background-color: rgb(236, 247, 251, 0.5);
+    border: 1px solid #1C76FC;
+    border-radius: 16px;
+    padding: 20px;
+    line-height: 50px;
+    margin: 80px;
+  }
